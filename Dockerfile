@@ -9,7 +9,8 @@ COPY . /app
 WORKDIR /app
 
 # Build menggunakan Ant
-RUN ant clean && ant
+COPY lib/org-netbeans-modules-java-j2seproject-copylibstask.jar /app/lib/
+RUN ant -Dlibs.CopyLibs.classpath=lib/org-netbeans-modules-java-j2seproject-copylibstask.jar
 
 # Deploy hasil build ke Tomcat
 RUN rm -rf /usr/local/tomcat/webapps/ROOT
