@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/controllers/LibrarianController.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/dao/MemberDAO.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/web/views/catalog.jsp</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/servlets/LoanServlet.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/models/Librarian.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/servlets/AdminServlet.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/models/User.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/servlets/ReturnLoanServlet.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/dao/BookDAO.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/dao/LoanDAO.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/servlets/MemberServlet.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/models/Admin.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/web/index.jsp</file>
+            <file>file:/D:/DIGILAB/digitallibrary/web/views/login.jsp</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/service/BookService.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/web/views/borrow_book.jsp</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/servlets/LoanApiServlet.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/service/UserService.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/controllers/BookController.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/dao/UserDAO.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/web/views/list_loan_librarian.jsp</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/models/Member.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/web/META-INF/context.xml</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/models/Book.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/servlets/LoginServlet.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/controllers/CatalogController.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/models/Loan.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/service/MemberService.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/servlets/LogoutServlet.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/controllers/MemberController.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/service/LoanService.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/models/Catalog.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/servlets/RegisterServlet.java</file>
+            <file>file:/D:/DIGILAB/digitallibrary/web/views/librarian_dashboard.jsp</file>
+            <file>file:/D:/DIGILAB/digitallibrary/src/java/servlets/BookApiController.java</file>
+        </group>
+    </open-files>
+</project-private>
